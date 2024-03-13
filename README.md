@@ -1,4 +1,4 @@
-<h1 align="center">Não será um Hello, World!</h1>
+<h1 align="center">Não é um Hello, World!</h1>
 <h3>Me chamo Vinícius e sou um estudante de tecnologia.</h3>
 
 <details>
