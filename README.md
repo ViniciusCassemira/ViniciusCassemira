@@ -1,16 +1,21 @@
-<h1>Não será um Hello, World!</h1>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicciuus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicciuus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="145" alt="languages graph"  />
-</div>
+<h1 align="center">Não será um Hello, World!</h1>
+<h3>Me chamo Vinícius e sou um estudante de tecnologia.</h3>
 
-###
+<details>
+  <summary>Um pouco sobre mim</summary>
 
-<img align="center" height="140" src="https://i.pinimg.com/originals/18/aa/2e/18aa2e011f3ba1e58ff5400bd093102b.gif"  />
+  - Tenho 18 anos, moro no interior do estado de São Paulo e atualmnte estou cursando<br>o 1º semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP
+  
+  - (Depois eu termino de preencher isso, não se preocupe)
+  
+</details>
 
-###
+<br>
 
-<div align="center">
-</div>
+<!--<p align="center">
+  <img align="center" height="140" src="https://i.pinimg.com/originals/18/aa/2e/18aa2e011f3ba1e58ff5400bd093102b.gif"  />
+</p>-->
+<h3>Estatísticas</h3>
 
-###
+![vinicciuus_github stats](https://github-readme-stats.vercel.app/api?username=vinicciuus&show_icons=true&theme=gotham)
+  
