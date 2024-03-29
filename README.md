@@ -1,6 +1,6 @@
 <h1 align="center">Não é um Hello, World!</h1>
 <h3>Seja bem-vindo(a) ao meu perfil!</h3>
-<p>Me chamo Vinícius, tenho 18 anos e sou um estudante de tecnologia. Moro no interior do estado de São Paulo e atualmente estou cursando o 1° semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP</p>
+<p>Me chamo Vinícius, tenho 18 anos e sou um estudante de tecnologia. Atualmente estou cursando o 1° semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP</p>
 
 <!-- teste de observação -->
 
