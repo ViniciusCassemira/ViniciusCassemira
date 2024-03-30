@@ -11,5 +11,5 @@
 </p>-->
 <h3>Estatísticas</h3>
 
-![vinicciuus_github stats](https://github-readme-stats.vercel.app/api?username=viniciuscassemira&show_icons=true&theme=gotham)
+![vinicius_github stats](https://github-readme-stats.vercel.app/api?username=viniciuscassemira&show_icons=true&theme=gotham)
   
