@@ -3,12 +3,6 @@
 <p>Me chamo Vinícius, tenho 18 anos e sou um estudante de tecnologia. Atualmente estou cursando o 1° semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP</p>
 
 ---
-<h3>Estatísticas</h3>
-
-   ![](https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&theme=buefy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-   
----
  <h3>Sobre a Fatec</h3>
 <details>
   <summary>Sobre o curso de DSM</summary>
@@ -19,3 +13,9 @@
 Alguns exercícios feitos em sala:
 * [Desenvolvimento Web](https://github.com/ViniciusCassemira/DesenvolvimentoWeb)
 * [Algoritmos e Lógica de programação](https://github.com/ViniciusCassemira/algoritmos)
+
+---
+<h3>Estatísticas</h3>
+
+   ![](https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&theme=buefy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
