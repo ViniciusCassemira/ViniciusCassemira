@@ -1,6 +1,5 @@
-<h1 align="center">Não é um Hello, World!</h1>
-<h3>Seja bem-vindo(a) ao meu perfil!</h3>
-<p>Me chamo Vinícius, tenho 18 anos e sou um estudante de tecnologia. Atualmente estou cursando o 1° semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=800080&text=Seja%20Bem%20vindo(a)&fontSize=30&fontAlignY=30&fontColor=ffffff&section=header&desc=Me%20chamo%20Vinícius&descAlignY=45&descAlign=50">
+<p>Tenho 18 anos e sou um estudante de tecnologia. Cursando o 1° semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP</p>
 
 ---
  <h3>Sobre a Fatec</h3>
@@ -26,3 +25,5 @@ Alguns exercícios feitos em sala:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusCassemira/ViniciusCassemira/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=800080&fontSize=50&fontAlignY=40&fontColor=ffffff&section=footer">
