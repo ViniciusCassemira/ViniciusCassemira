@@ -14,10 +14,11 @@ Alguns exercícios feitos em sala:
 * [Algoritmos e Lógica de programação](https://github.com/ViniciusCassemira/algoritmos)
 
 ---
-<h3>Estatísticas</h3>
-
-   ![](https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&theme=buefy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+ <h3 style="text-align:center">Estatísticas</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&count_private=true&theme=nightowl" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&theme=nightowl&layout=compact" style="height: 180px;"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusCassemira/ViniciusCassemira/output/github-contribution-grid-snake-dark.svg">
