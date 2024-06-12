@@ -2,6 +2,14 @@
 <p>Tenho 18 anos e sou um estudante de tecnologia. Cursando o 1° semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP</p>
 
 ---
+
+<div align="center">
+ <h3 style="text-align:center">Estatísticas</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&count_private=true&theme=nightowl" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&theme=nightowl&layout=compact" style="height: 180px;"/>
+</div>
+
+---
  <h3>Sobre a Fatec</h3>
 <details>
   <summary>Sobre o curso de DSM</summary>
@@ -13,12 +21,6 @@ Alguns exercícios feitos em sala:
 * [Desenvolvimento Web](https://github.com/ViniciusCassemira/DesenvolvimentoWeb)
 * [Algoritmos e Lógica de programação](https://github.com/ViniciusCassemira/algoritmos)
 
----
-<div align="center">
- <h3 style="text-align:center">Estatísticas</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&count_private=true&theme=nightowl" style="height: 180px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&theme=nightowl&layout=compact" style="height: 180px;"/>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusCassemira/ViniciusCassemira/output/github-contribution-grid-snake-dark.svg">
