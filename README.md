@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=800080&text=Seja%20Bem%20vindo(a)&fontSize=30&fontAlignY=30&fontColor=ffffff&section=header&desc=Me%20chamo%20Vinícius&descAlignY=45&descAlign=50">
-<p>Tenho 18 anos e sou um estudante de tecnologia. Cursando o 1° semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP</p>
+<p>Tenho 18 anos e sou um estudante de tecnologia. Cursando o 2° semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP</p>
 
 <div align="center">
  <h3>Estatísticas:</h3>
