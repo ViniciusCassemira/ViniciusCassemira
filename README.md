@@ -3,8 +3,8 @@
 
 <div align="center">
  <h3>Estatísticas:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&count-private=true&theme=nightowl" style="height: 180px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&count-private=true&theme=nightowl&layout=compact" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&theme=nightowl" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&theme=nightowl&layout=compact" style="height: 180px;"/>
 </div>
 
  <h3 align="center">Sobre o Curso de DSM:</h3>
