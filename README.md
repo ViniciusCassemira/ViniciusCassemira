@@ -1,25 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=800080&text=Seja%20Bem%20vindo(a)&fontSize=30&fontAlignY=30&fontColor=ffffff&section=header&desc=Me%20chamo%20Vinícius&descAlignY=45&descAlign=50">
-<p>Tenho 18 anos e sou um estudante de tecnologia. Cursando o 2° semestre em Desenvolvimento de Software Multiplataforma na FATEC de Jahu-SP</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=800080&text=Hello!%20Im%20Vinícius&fontSize=30&fontAlignY=30&fontColor=ffffff&descAlignY=45&descAlign=50">
+<p align="center">I'm 18 years old and a technology student. Studying the 2nd semester in Multiplatform Software Development at FATEC in Jahu-SP</p>
 
 <div align="center">
- <h3>Estatísticas:</h3>
+  <h3>Connect with me:</h3>
+  <a href="mailto:vinicius.cassemira@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Email-AAAAAA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/viniciuscassemira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+<div align="center">
+ <h3>Statistics:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&theme=nightowl" style="height: 180px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&theme=nightowl&layout=compact" style="height: 180px;"/>
 </div>
-
- <h3 align="center">Sobre o Curso de DSM:</h3>
- 
-  - Um graduado em <b>Desenvolvimento de Software Multiplataforma</b> projeta, desenvolve e testa softwares para diferentes plataformas, como dispositivos móveis e web. Também trabalham com aplicações em Nuvem e Internet das Coisas. Utilizam diversas linguagens de programação, bancos de dados e técnicas de Engenharia de Software, Segurança da Informação e Inteligência Artificial para propor soluções tecnológicas. Sendo capazes de realizar análises estatísticas de dados para auxiliar na tomada de decisões e coordenar projetos e equipes de desenvolvimento.
-
-<details>
-<summary>Alguns dos conteúdos feitos em sala</summary>
- 
-* [Desenvolvimento Web](https://github.com/ViniciusCassemira/DesenvolvimentoWeb)
-* [Algoritmos e Lógica de programação](https://github.com/ViniciusCassemira/algoritmos)
-* [1º prova Desenvolvimento Web](https://github.com/ViniciusCassemira/Fatec-ProvaWeb1)
-* [1º prova Algoritmos e Lógica de Programação](https://github.com/ViniciusCassemira/Fatec-ProvaAlgoritmo1)
-* [2º prova Algoritmos e Lógica de Programação](https://github.com/ViniciusCassemira/Fatec-ProvaAlgoritmo2)
-</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusCassemira/ViniciusCassemira/output/github-contribution-grid-snake-dark.svg">
