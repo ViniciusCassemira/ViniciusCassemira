@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=800080&text=Hello!%20Im%20Vinícius&fontSize=30&fontAlignY=30&fontColor=ffffff&descAlignY=45&descAlign=50">
-<p align="center">I'm 18 years old and a technology student. Studying the 2nd semester in Multiplatform Software Development at FATEC in Jahu-SP</p>
+<p align="center">I'm 19 years old and a technology student. Studying the 2nd semester in Multiplatform Software Development at FATEC in Jahu-SP</p>
 
 <div align="center">
   <h3>Connect with me:</h3>
