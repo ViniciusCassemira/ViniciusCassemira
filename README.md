@@ -8,6 +8,13 @@
 </div>
 
 <div align="center">
+  <h3>Tools and technologies</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,docker,linux,vscode,github,gitlab" />
+  </a>
+</div>
+
+<div align="center">
  <h3>Statistics:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusCassemira&theme=nightowl" style="height: 180px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCassemira&theme=nightowl&layout=compact" style="height: 180px;"/>
