@@ -1,5 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=800080&text=Hello!%20Im%20Vinícius&fontSize=30&fontAlignY=30&fontColor=ffffff&descAlignY=45&descAlign=50">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=006A71&descAlignY=45&descAlign=50">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&color=006A71&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Vinicius+Cassemira;Dev+in+progress...">
+</h1>
+
 <p align="center">I'm 19 years old and a technology student. Studying the 3nd semester in Multiplatform Software Development at FATEC in Jahu-SP</p>
+
 
 <div align="center">
   <h3>Connect with me:</h3>
@@ -8,9 +14,19 @@
 </div>
 
 <div align="center">
-  <h3>Tools and technologies</h3>
+  <h3>Languages and Technologies</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,docker,linux,vscode,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mongodb" />
+  </a>
+  
+  <h3>Tools and Platforms</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,linux" />
+  </a>
+
+  <h3>Cloud & Deployment</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,heroku,netlify,vercel" />
   </a>
 </div>
 
@@ -27,4 +43,4 @@
 </picture>
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=800080&fontSize=50&fontAlignY=40&fontColor=ffffff&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=006A71&fontSize=50&fontAlignY=40&fontColor=ffffff&section=footer">
