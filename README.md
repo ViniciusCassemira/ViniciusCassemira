@@ -16,7 +16,7 @@
 <div align="center">
   <h3>Languages and Technologies</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mongodb,mysql" />
   </a>
   
   <h3>Tools and Platforms</h3>
