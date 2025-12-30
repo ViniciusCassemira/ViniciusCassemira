@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&color=006A71&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Vinicius+Cassemira;Dev+in+progress...">
 </h1>
 
-<p align="center">I'm 19 years old and a technology student. Studying the 4nd semester in Multiplatform Software Development at FATEC in Jahu-SP</p>
+<p align="center">I'm 20 years old and a technology student. Studying the 4nd semester in Multiplatform Software Development at FATEC in Jahu-SP</p>
 
 
 <div align="center">
