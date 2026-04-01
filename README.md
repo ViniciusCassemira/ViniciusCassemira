@@ -10,8 +10,6 @@
 
 #
 
-<img align="right" alt="" height="160px" src="./src/computer.gif">
-
 <div>
   <h3>Connect with me:</h3>
   <a href="mailto:vinicius.cassemira@gmail.com"><img src="https://img.shields.io/badge/Email-AAAAAA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -28,8 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="25" alt="html5 logo" style="padding-right: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" alt="html5 logo"  style="padding-right: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"" height="25" alt="html5 logo" style="padding-right: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="25" alt="html5 logo"  style="padding-right: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" alt="html5 logo"  style="padding-right: 8px;"/>
 </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="html5 logo"  style="padding-right: 8px;"/>
 
 <h3 align="left">Databases</h3>
 <div align="left">
@@ -61,6 +60,9 @@
 - Linux Internals & System Fundamentals
 - Computer Networking & Protocols
 - Cloud & Security Fundamentals
+- Django
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusCassemira&show_icons=true&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusCassemira/ViniciusCassemira/output/github-contribution-grid-snake-dark.svg">
